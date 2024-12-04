@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #ecf0f3;
+    /* background-color: #ecf0f3; */
+    background-color:#cce5cc;
     font-family: sans-serif;
     outline: none;
 }
